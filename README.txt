@@ -1,4 +1,4 @@
-# Abhishek_OS-Project
+# OS-Project
 Question: Design a scheduling program to implement a Queue with two levels:
           Level 1: Fixed priority preemptive Scheduling.
           Level 2: Round Robin Scheduling
